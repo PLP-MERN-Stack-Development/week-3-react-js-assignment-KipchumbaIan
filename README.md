@@ -1,26 +1,29 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=19910622&assignment_repo_type=AssignmentRepo)
-# React.js and Tailwind CSS Assignment
+# PLP Task Manager - React.js, JSX, and Tailwind CSS
 
-This assignment focuses on building a responsive React application using JSX and Tailwind CSS, implementing component architecture, state management, hooks, and API integration.
+A responsive React application demonstrating component architecture, state management, hooks usage, and API integration.
 
-## Assignment Overview
+## Features
 
-You will:
-1. Set up a React project with Vite and Tailwind CSS
-2. Create reusable UI components
-3. Implement state management using React hooks
-4. Integrate with external APIs
-5. Style your application using Tailwind CSS
+- Task management with add, delete, and filter functionality
+- Theme switching (light/dark mode)
+- API integration with JSONPlaceholder
+- Responsive design for mobile, tablet, and desktop
+- Custom reusable components
 
-## Getting Started
+## Technologies Used
 
-1. Accept the GitHub Classroom assignment invitation
-2. Clone your personal repository that was created by GitHub Classroom
-3. Install dependencies:
+- React.js with Hooks and Context API
+- Tailwind CSS for styling
+- React Router for navigation
+- Axios for API requests
+
+## Setup Instructions
+
+1. Clone the repository
    ```
    npm install
    ```
-4. Start the development server:
+2. Start the development server:
    ```
    npm run dev
    ```
@@ -68,4 +71,4 @@ Your work will be automatically submitted when you push to your GitHub Classroom
 - [React Documentation](https://react.dev/)
 - [Tailwind CSS Documentation](https://tailwindcss.com/docs)
 - [Vite Documentation](https://vitejs.dev/guide/)
-- [React Router Documentation](https://reactrouter.com/) 
+- [React Router Documentation](https://reactrouter.com/)
